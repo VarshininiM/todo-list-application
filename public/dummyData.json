@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Sample Task 1",
+      "description": "This is a sample task description.",
+      "completed": false,
+      "lastUpdated": "2024-09-13T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Sample Task 2",
+      "description": "This is another sample task description.",
+      "completed": true,
+      "lastUpdated": "2024-09-13T12:30:00Z"
+    }
+  ]
+  
